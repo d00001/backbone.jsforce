@@ -1,0 +1,17 @@
+{
+  "name": "backbone.jsforce",
+  "version": "0.0.1",
+  "description": "Backbone sync Module for Salesforce using jsforce",
+  "main": "backbone.jsforce.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mokamoto/backbone.jsforce.git"
+  },
+  "keywords": [
+    "backbone",
+    "jsforce",
+    "salesforce"
+  ],
+  "author": "Mitsuhiro Okamoto",
+  "license": "MIT"
+}
